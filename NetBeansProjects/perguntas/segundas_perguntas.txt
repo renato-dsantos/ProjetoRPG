@@ -17,7 +17,7 @@ A) //
 B) /*
 C) ##
 D) <!--
-E) --
+E) -
 A
 Qual é a função de `break` em um laço `for`?
 A) Reinicia o laço  
