@@ -89,7 +89,7 @@ public class Perguntas {
         if(opcao == 1){
         System.out.print("Voltando para a história");
         }else{
-        System.out.print("Voltando para menu");
+        System.out.print("Voltando para menus");
         }
         
         
