@@ -1,0 +1,84 @@
+Qual a saída do seguinte código?int a = 8;  int b = 3; System.out.println(a % b);
+A) 2  
+B) 3  
+C) 1  
+D) 5  
+E) 0  
+A
+Qual é a principal vantagem do uso de ArrayList em Java?
+A) É mais rápido que arrays em qualquer situação  
+B) Permite tamanho fixo com alocação dinâmica  
+C) Permite crescimento dinâmico de tamanho  
+D) Substitui todos os tipos de coleção  
+E) Não precisa importar nenhuma biblioteca  
+C
+Qual é o símbolo usado para comentários de linha única em Java?
+A) //
+B) /*
+C) ##
+D) <!--
+E) --
+A
+Qual é a função de `break` em um laço `for`?
+A) Reinicia o laço  
+B) Ignora a iteração atual  
+C) Encerra completamente o laço  
+D) Pausa a execução  
+E) Pula para a próxima iteração  
+C
+Qual tipo de dado em Java armazena valores como true ou false?
+A) int
+B) double
+C) char
+D) boolean
+E) string
+D
+O que faz a estrutura if em um programa?
+A) Repete comandos
+B) Compara strings
+C) Executa uma ação se uma condição for verdadeira
+D) Declara variáveis
+E) Ordena dados
+C
+Qual é a palavra-chave para iniciar a definição de uma classe em Java?
+A) define
+B) var
+C) class
+D) method
+E) public
+C
+Qual das alternativas representa um valor do tipo char em Java?
+A) 'a'
+B) "b"
+C) 100
+D) true
+E) 'abc'
+A
+Qual método deve ser usado para comparar o conteúdo de duas Strings em Java?
+A) ==  
+B) equals()  
+C) compare()  
+D) match()  
+E) toString()  
+B
+O que é necessário para criar o ponto de entrada principal de um programa em Java?
+A) void program()
+B) public static void run()
+C) main()
+D) public static void main(String[] args)
+E) inicio()
+D
+O que o operador + faz entre duas strings em Java?
+A) Compara
+B) Soma valores ASCII
+C) Concatena
+D) Apaga
+E) Substitui
+C
+Qual é a principal vantagem de usar variáveis em um programa?
+A) Tornar o código mais bonito
+B) Evitar erros
+C) Armazenar e reutilizar dados
+D) Aumentar o tamanho do código
+E) Tornar o programa mais lento
+C

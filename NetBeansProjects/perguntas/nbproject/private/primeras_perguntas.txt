@@ -1,0 +1,89 @@
+Qual é o tipo de dado primitivo para representar números inteiros em Java?
+a) int  
+b) float  
+c) char  
+d) double  
+e) long  
+Resposta correta: a
+2. Qual comando em Java é utilizado para imprimir algo na tela?
+a) echo  
+b) print  
+c) System.out.println  
+d) printf  
+e) write  
+Resposta correta: c
+O que significa "for" em um laço de repetição?
+a) Definir um tipo de variável  
+b) Declarar uma classe  
+c) Repetir um bloco de código várias vezes  
+d) Atribuir valores a variáveis  
+e) Validar entradas do usuário  
+Resposta correta: c
+Em algoritmos, o que é uma "condição"?
+a) Uma sequência de comandos que sempre se repete  
+b) Uma verificação lógica que determina o fluxo do programa  
+c) Um tipo de variável  
+d) Um laço de repetição  
+e) Um tipo de operação matemática  
+Resposta correta: b
+Qual é a estrutura de repetição que verifica a condição após a execução do bloco de código?
+a) while  
+b) for  
+c) do-while  
+d) switch  
+e) foreach  
+Resposta correta: c
+Como você declararia uma variável de tipo inteiro chamada `contador` em Java?
+a) inteiro contador;  
+b) int contador;  
+c) contador inteiro;  
+d) contador: int;  
+e) contador = 0;  
+Resposta correta: b
+O que o operador `==` faz em Java?
+a) Compara se duas variáveis são iguais  
+b) Atribui um valor a uma variável  
+c) Soma duas variáveis  
+d) Subtrai duas variáveis  
+e) Verifica se duas variáveis são diferentes  
+Resposta correta: a
+Qual comando em Java é utilizado para fazer uma decisão condicional?
+a) if  
+b) loop  
+c) switch  
+d) try  
+e) case  
+Resposta correta: a
+O que o comando `break` faz dentro de um laço?
+a) Pausa o programa por um tempo  
+b) Sai do laço imediatamente  
+c) Continua a próxima iteração  
+d) Reinicia o laço  
+e) Termina o programa  
+Resposta correta: b
+Qual é o operador lógico "E" em Java?
+a) ||  
+b) !  
+c) &&  
+d) ==  
+e) !=  
+Resposta correta: c
+Qual dos seguintes é um exemplo de variável booleana?
+a) "verdadeiro"  
+b) 1  
+c) true  
+d) 'T'  
+e) yes  
+Resposta correta: c
+Qual comando é usado para repetir um bloco de código enquanto uma condição for verdadeira?
+a) if  
+b) switch  
+c) while  
+d) break  
+e) return  
+Resposta correta: c
+
+
+
+
+
