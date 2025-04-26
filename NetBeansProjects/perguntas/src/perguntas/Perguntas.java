@@ -13,10 +13,12 @@ import java.io.FileNotFoundException;
 import java.util.*;
 public class Perguntas {
 
-    /**
+    /**a
      * @param args the command line arguments
      */
     public static void main(String[] args) throws FileNotFoundException{
+        
+        long inicio = System.nanoTime();
       
         File questoes = new File("primeiras_perguntas.txt");
         Scanner perguntas = new Scanner(questoes);
@@ -80,8 +82,15 @@ public class Perguntas {
                   
         }//fim for perguntas
         
-        System.out.println("Você acertou " + acertos + " perguntas.");
-        System.out.println("Você acertou gostaria de continuar a história");
+        long fim = System.nanoTime(); // Fim da contagem
+    long duracao = fim - inicio; // duração em nanossegundos
+
+    // Converter para segundos
+    double segundos = duracao / 1_000_000_000.0;
+        
+        System.out.print("Você acertou " + acertos + " perguntas. ");
+        System.out.printf("Tempo total: %.2f segundos.%n", segundos);
+        System.out.println("Você acertou gostaria de continuar" );
         System.out.println("1 - Sim");
         System.out.println("2 - Não");
         int opcao = voltarmenu.nextInt();
@@ -89,7 +98,7 @@ public class Perguntas {
         if(opcao == 1){
         System.out.print("Voltando para a história");
         }else{
-        System.out.print("Voltando para menus");
+        System.out.print("Voltando para menu");
         }
         
         
